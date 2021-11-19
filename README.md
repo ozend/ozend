@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ozend
+- 👀 I’m interested in sharing my experience in coding
+- 🌱 I’m currently learning Python and Haxe
+- 💞️ I’m looking to collaborate on a large game
+- 📫 Reach me [here](https://discordapp.com/users/840642250173579295/)
