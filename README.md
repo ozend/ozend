@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ozend
-- 👀 I’m interested in sharing my experience in coding
-- 🌱 I’m currently learning Python and Haxe
-- 💞️ I’m looking to collaborate on a large game
+- 👋 Hi, I’m Ozend
+- 👀 I’m interested in sharing my games and addons for Haxe.
+- 🌱 I’m currently learning Python and Haxe.
+- 💞️ I’m looking to collaborate on a large game, called [Idle Birdster](https://github.com/ozend/birdster)
 - 📫 Reach me [here](https://discordapp.com/users/840642250173579295/)
